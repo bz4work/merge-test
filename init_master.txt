@@ -3,3 +3,7 @@ sadas
 add after create branch 14471
 
 some text
+
+add from 14471 branch when merge in master:
+code added in branch 14471
+code added in branch 14471 - 2
